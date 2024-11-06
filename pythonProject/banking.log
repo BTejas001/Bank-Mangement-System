@@ -1,0 +1,37 @@
+2024-11-03 21:39:55,579 - ERROR - Failed to create database pool: Database password not set in environment variables
+2024-11-03 21:39:55,579 - ERROR - Sign in failed: Database password not set in environment variables
+2024-11-03 21:40:29,274 - ERROR - Database connection error: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:40:29,275 - ERROR - Sign up failed: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:41:07,061 - ERROR - Database connection error: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:41:07,061 - ERROR - Sign up failed: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:41:33,966 - ERROR - Failed to create database pool: Database password not set in environment variables
+2024-11-03 21:41:33,968 - ERROR - Sign in failed: Database password not set in environment variables
+2024-11-03 21:41:45,480 - ERROR - Database connection error: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:41:45,481 - ERROR - Sign up failed: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:42:06,386 - ERROR - Database connection error: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:42:06,386 - ERROR - Sign in failed: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:42:17,876 - ERROR - Database connection error: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:42:17,876 - ERROR - Sign up failed: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:46:17,683 - ERROR - Failed to create database pool: Database password not set in environment variables
+2024-11-03 21:46:17,683 - ERROR - Sign in failed: Database password not set in environment variables
+2024-11-03 21:46:25,383 - ERROR - Database connection error: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:46:25,383 - ERROR - Sign up failed: 'NoneType' object has no attribute 'get_connection'
+2024-11-03 21:57:23,424 - INFO - Database connection pool created successfully
+2024-11-03 21:57:23,424 - ERROR - Database connection error: Unknown column 'password_hash' in 'field list'
+2024-11-03 21:57:23,427 - ERROR - Sign in failed: Unknown column 'password_hash' in 'field list'
+2024-11-03 21:57:59,186 - ERROR - Transaction failed: Unknown column 'password_hash' in 'field list'
+2024-11-03 21:57:59,186 - ERROR - Database connection error: Unknown column 'password_hash' in 'field list'
+2024-11-03 21:57:59,188 - ERROR - Failed to create user: Unknown column 'password_hash' in 'field list'
+2024-11-03 21:57:59,188 - ERROR - Failed to create user: tejas
+2024-11-03 22:00:49,493 - INFO - Database connection pool created successfully
+2024-11-03 22:01:02,274 - INFO - New user created: tejas
+2024-11-03 22:01:14,636 - INFO - Successful login: tejas
+2024-11-03 22:02:49,323 - INFO - New user created: bhusari
+2024-11-03 22:03:08,261 - INFO - Successful login: tejas
+2024-11-03 22:05:35,840 - INFO - Database connection pool created successfully
+2024-11-03 22:05:49,458 - INFO - New user created: john
+2024-11-03 22:06:03,803 - INFO - Successful login: john
+2024-11-03 22:07:15,790 - INFO - New user created: sam
+2024-11-03 22:07:29,827 - INFO - Successful login: sam
+2024-11-03 22:08:03,681 - INFO - Successful login: john
+2024-11-03 22:09:18,101 - INFO - Successful login: sam
