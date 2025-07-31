@@ -1,1 +1,1 @@
-Go through the video available to get the idea of project.
+--> Please go through the video  available to get the idea of project.
